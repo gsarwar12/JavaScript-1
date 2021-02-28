@@ -46,10 +46,12 @@
 	onmouseout
 	
 ###) javascript comments:
+		
 		Single line comments you use 2 slash ~ (//content )
 		Multiple Line comments you use  ~ ( */ content */ )
 
 ###) Javascript/Programing all method: 5 parts of js
+	
 	1) Data Type / Primetive Data
 	2) Control Flow
 	3) Variable
